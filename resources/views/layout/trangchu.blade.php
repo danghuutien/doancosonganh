@@ -7,7 +7,7 @@
 
 
 	<script>(function (html) { html.className = html.className.replace(/\bno-js\b/, 'js') })(document.documentElement);</script>
-	<title>Mật ong Nghĩa Đồng</title>
+	<title>GEAR VINH - Buôn bán, trao đổi máy tính laptop</title>
 	<link rel='dns-prefetch' href='http://cdn.jsdelivr.net/' />
 	<link rel='dns-prefetch' href='http://s.w.org/' />
 	
@@ -99,7 +99,7 @@
 		content="http://matong.langsonweb.com/wp-content/uploads/2019/01/cropped-logo-270x270.jpg" />
 	<style id="custom-css" type="text/css">
 		:root {
-			--primary-color: #fdc215;
+			--primary-color: #072d94;
 		}
 
 		/* Site Width */
@@ -197,11 +197,11 @@
 		}
 
 		.main-menu-overlay {
-			background-color: #fdc215
+			background-color: #072d94
 		}
 
 		.header-top {
-			background-color: #fdc215 !important;
+			background-color: #072d94 !important;
 		}
 
 		/* Color */
@@ -216,17 +216,17 @@
 		.cart-icon strong,
 		[data-color='primary'],
 		.is-outline.primary {
-			color: #fdc215;
+			color: #072d94;
 		}
 
 		/* Color !important */
 		[data-text-color="primary"] {
-			color: #fdc215 !important;
+			color: #072d94 !important;
 		}
 
 		/* Background Color */
 		[data-text-bg="primary"] {
-			background-color: #fdc215;
+			background-color: #072d94;
 		}
 
 		/* Background */
@@ -273,7 +273,7 @@
 		input[type='reset'].button,
 		input[type='button'].primary,
 		.badge-inner {
-			background-color: #fdc215;
+			background-color: #072d94;
 		}
 
 		/* Border */
@@ -297,25 +297,25 @@
 		.slider-nav-circle .flickity-prev-next-button:hover svg,
 		.slider-nav-circle .flickity-prev-next-button:hover .arrow,
 		.primary.is-outline:hover {
-			border-color: #fdc215
+			border-color: #072d94
 		}
 
 		.nav-tabs>li.active>a {
-			border-top-color: #fdc215
+			border-top-color: #072d94
 		}
 
 		.widget_shopping_cart_content .blockUI.blockOverlay:before {
-			border-left-color: #fdc215
+			border-left-color: #072d94
 		}
 
 		.woocommerce-checkout-review-order .blockUI.blockOverlay:before {
-			border-left-color: #fdc215
+			border-left-color: #072d94
 		}
 
 		/* Fill */
 		.slider .flickity-prev-next-button:hover svg,
 		.slider .flickity-prev-next-button:hover .arrow {
-			fill: #fdc215;
+			fill: #072d94;
 		}
 
 		/* Background Color */
@@ -437,7 +437,7 @@
 		.header:not(.transparent) .header-nav.nav>li.current>a,
 		.header:not(.transparent) .header-nav.nav>li>a.active,
 		.header:not(.transparent) .header-nav.nav>li>a.current {
-			color: #fdc215;
+			color: #072d94;
 		}
 
 		.header-nav.nav-line-bottom>li>a:before,
@@ -448,11 +448,11 @@
 		.header-nav.nav-pills>li>a:hover,
 		.header-nav.nav-pills>li.active>a {
 			color: #FFF !important;
-			background-color: #fdc215;
+			background-color: #072d94;
 		}
 
 		a {
-			color: #fdc215;
+			color: #072d94;
 		}
 
 		.widget a {
@@ -460,12 +460,12 @@
 		}
 
 		.widget a:hover {
-			color: #fdc215;
+			color: #072d94;
 		}
 
 		.widget .tagcloud a:hover {
-			border-color: #fdc215;
-			background-color: #fdc215;
+			border-color: #072d94;
+			background-color: #072d94;
 		}
 
 		.shop-page-title.featured-title .title-overlay {
@@ -516,23 +516,23 @@
 		.header-main .social-icons a:hover,
 		.header-main .header-button>.button.is-outline:hover,
 		.header-main .nav>li>a:hover>i:not(.icon-angle-down) {
-			color: #fdc215 !important;
+			color: #072d94 !important;
 		}
 
 		.header-main .current-dropdown .cart-icon strong,
 		.header-main .header-button>.button:hover {
-			background-color: #fdc215 !important;
+			background-color: #072d94 !important;
 		}
 
 		.header-main .current-dropdown .cart-icon strong:after,
 		.header-main .current-dropdown .cart-icon strong,
 		.header-main .header-button>.button:hover {
-			border-color: #fdc215 !important;
+			border-color: #072d94 !important;
 		}
 
 		.absolute-footer,
 		html {
-			background-color: #fdc215
+			background-color: #072d94
 		}
 
 		/* Custom CSS */
@@ -542,7 +542,7 @@
 		}
 
 		.product-categories {
-			border: 1px solid #fdc215;
+			border: 1px solid #072d94;
 			padding: 10px;
 			font-size: 15px;
 		}
@@ -558,12 +558,12 @@
 		}
 
 		.nav-dropdown {
-			border: 1px solid #fdc215;
+			border: 1px solid #072d94;
 		}
 
 		.nav-dropdown.nav-dropdown-default>li>a:hover {
-			background: #fdc215;
-			color: #f851a7;
+			background: #072d94;
+			color: #fff;
 		}
 
 		.nav-dropdown-default {
@@ -582,7 +582,7 @@
 		}
 
 		.header-nav .button.secondary:not(.is-outline) {
-			background-color: #fdc215;
+			background-color: #072d94;
 			height: 40px;
 			width: 40px;
 			border-top-right-radius: 4px;
@@ -618,7 +618,7 @@
 		.banner-section .banner-inner .fill,
 		.banner-section .banner {
 			border-radius: 15px;
-			border: 1px solid #fdc215
+			border: 1px solid #072d94
 		}
 
 		.banner-section .col {
@@ -626,8 +626,8 @@
 		}
 
 		.sp-noi-bat {
-			border-top: 5px solid #fdc215;
-			border-bottom: 5px solid #fdc215
+			border-top: 5px solid #072d94;
+			border-bottom: 5px solid #072d94
 		}
 
 		.san-pham .button {
@@ -649,7 +649,7 @@
 
 		.san-pham .product-small {
 			background: white;
-			border: 1px solid #fdc215;
+			border: 1px solid #072d94;
 			border-radius: 20px;
 			padding: 10px;
 			padding-bottom: 0
@@ -662,7 +662,7 @@
 		.san-pham .product-small .product-title a {
 			text-transform: none;
 			font-family: "roboto condensed", sans-serif;
-			color: #F751A7;
+			color: #1e293b;
 			font-size: 15px;
 			margin-bottom: 5px
 		}
@@ -713,12 +713,12 @@
 		}
 
 		.tin-tuc .cot8 .post-item .col-inner:hover {
-			border: 1px solid #fdc215;
+			border: 1px solid #072d94;
 			box-shadow: 2px 4px 15px #e4e4e4;
 		}
 
 		.tin-tuc .cot4 .video-fit {
-			border: 2px solid #fdc215;
+			border: 2px solid #072d94;
 			border-radius: 10px;
 		}
 
@@ -729,10 +729,10 @@
 
 		.form-tu-van {
 			background: white;
-			border: 1px solid #fdc215;
+			border: 1px solid #072d94;
 			padding: 20px;
 			border-radius: 20px;
-			box-shadow: 2px 2px 10px #fdc215;
+			box-shadow: 2px 2px 10px #072d94;
 		}
 
 		.form-tu-van input[type='text'],
@@ -742,12 +742,12 @@
 			border-radius: 4px;
 			box-shadow: 0px 0px;
 			background: #fffdf1;
-			border: 1px solid #fdc215;
+			border: 1px solid #072d94;
 		}
 
 		.tin-tuc .cot8 .post-item .post-title {
 			FONT-SIZE: 21px;
-			color: #f851a7;
+			color: #1e293b;
 			margin-bottom: 10px;
 			font-weight: normal;
 		}
@@ -755,7 +755,7 @@
 		.form-tu-van input[type='submit']:not(.is-form) {
 			width: 100%;
 			border-radius: 20px;
-			background: #fdc215;
+			background: #072d94;
 			color: white;
 			font-weight: normal;
 			text-transform: none;
@@ -764,13 +764,13 @@
 		}
 
 		.button.icon.circle {
-			background: #fdc215;
+			background: #072d94;
 			color: white;
 			border: 0;
 		}
 
 		.footer-section .post-item .post-title:hover {
-			color: #fdc215
+			color: #072d94
 		}
 
 		.footer-section .post-item .post-title {
@@ -861,16 +861,16 @@
 		.product-gallery-slider img {
 			width: 100%;
 			border-radius: 20px;
-			border: 1px solid #fdc215;
+			border: 1px solid #072d94;
 			padding: 10px;
 		}
 
 		.single-product .single_add_to_cart_button {
-			background: #fdc215;
+			background: #072d94;
 			border-radius: 20px;
 			font-weight: normal;
 			text-transform: none;
-			background-color: #fdc215 !important;
+			background-color: #072d94 !important;
 		}
 
 		.related .product-section-title {
@@ -888,7 +888,7 @@
 		}
 
 		.related .box.product-small {
-			border: 1px solid #fdc215;
+			border: 1px solid #072d94;
 			border-radius: 10px;
 			padding: 5px;
 		}
@@ -905,9 +905,9 @@
 		a.devvn_buy_now_style,
 		.devvn-popup-title,
 		.popup-customer-info-group .devvn-order-btn {
-			background: #fdc215;
-			background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#fdc215), to(#f59000));
-			background: -webkit-linear-gradient(top, #f59000, #fdc215);
+			background: #072d94;
+			background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#072d94), to(#f59000));
+			background: -webkit-linear-gradient(top, #f59000, #072d94);
 		}
 
 		.thong-bao .top {
@@ -921,7 +921,7 @@
 			padding: 10px;
 			border-radius: 5px;
 			margin-bottom: 20px;
-			border: 1px dashed #fdc215;
+			border: 1px dashed #072d94;
 		}
 
 		.single-product .product-short-description {
@@ -945,7 +945,7 @@
 		}
 
 		.star-rating:before {
-			color: #fdc215 !important;
+			color: #072d94 !important;
 		}
 
 		.single-product .badge-container .badge-inner {
@@ -1016,7 +1016,7 @@
 		}
 
 		.single-post .the-tim-kiem a:hover {
-			background: #fdc215;
+			background: #072d94;
 		}
 
 		.single-post .the-tim-kiem a {
@@ -1050,7 +1050,7 @@
 
 		.flatsome_recent_posts ul,
 		.widget_categories ul {
-			border: 1px solid #fdc215;
+			border: 1px solid #072d94;
 			padding: 0 10px;
 		}
 
@@ -1094,7 +1094,7 @@
 
 		.widget-title {
 			display: block;
-			background: #fdc215;
+			background: #072d94;
 			padding: 13px 15px;
 			text-align: center;
 			font-weight: normal;
@@ -1111,13 +1111,13 @@
 		}
 
 		.single-post .article-inner {
-			border: 1px solid #fdc215;
+			border: 1px solid #072d94;
 			padding: 20px;
 		}
 
 		.single-post .entry-title {
 			font-weight: normal;
-			color: #fdc215;
+			color: #072d94;
 			text-shadow: 1px 2px 5px black;
 		}
 
@@ -1139,7 +1139,7 @@
 		}
 
 		.archive .box.product-small {
-			border: 1px solid #fdc215;
+			border: 1px solid #072d94;
 			padding: 5px;
 			border-radius: 10px;
 		}
@@ -1285,7 +1285,7 @@
 					<div class="flex-row container">
 						<div class="flex-col hide-for-medium flex-left">
 							<ul class="nav nav-left medium-nav-center nav-small  nav-">
-								<li class="html custom html_topbar_left">Chào mừng bạn đến với cửa hàng mật ong "NGUYÊN CHẤT"</li>          </ul>
+								<li class="html custom html_topbar_left">Chào mừng bạn đến với cửa hàng "GEAR VINH"</li>          </ul>
 						</div><!-- flex-col left -->
 
 						<div class="flex-col hide-for-medium flex-center">
@@ -1309,9 +1309,9 @@
 							<!-- Header logo -->
 							<a href="/"
 								rel="home">
-								<img width="258" height="90" src="../images/logo.jpg"
+								<img width="258" height="90" src="../images/GEAR VINH (1).jpg"
 									class="header_logo header-logo" alt="" /><img
-									width="258" height="90" src="../images/logo.jpg"
+									width="258" height="90" src="../images/GEAR VINH (1).jpg"
 									class="header-logo-dark" alt="" /></a>
 						</div>
 
@@ -1351,23 +1351,23 @@
 									
 								<li id="menu-item-30"
 									class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children  menu-item-30 has-dropdown">
-									<a href="/" class="nav-top-link">Sản phẩm <i class="fa fa-angle-down"></i></a>
+									<a href="/" class="nav-top-link">Sản phẩm </a>
 									<ul class='nav-dropdown nav-dropdown-default'>
 										<li id="menu-item-34"
 											class="menu-item menu-item-type-custom menu-item-object-custom  menu-item-34">
-											<a href="/san-pham/mat-ong-sua-chua">Mật ong sữa chúa</a></li>
+											<a href="/san-pham/mat-ong-sua-chua">Laptop</a></li>
 										<li id="menu-item-35"
 											class="menu-item menu-item-type-custom menu-item-object-custom  menu-item-35">
-											<a href="/san-pham/mat-ong-rung">Mật ong rừng</a></li>
+											<a href="/san-pham/mat-ong-rung">Laptop Gaming</a></li>
 										<li id="menu-item-36"
 											class="menu-item menu-item-type-custom menu-item-object-custom  menu-item-36">
-											<a href="/san-pham/mat-ong-gung">Mật ong gừng</a></li>
+											<a href="/san-pham/mat-ong-gung">PC Doanh nghiệp</a></li>
 										<li id="menu-item-37"
 											class="menu-item menu-item-type-custom menu-item-object-custom  menu-item-37">
-											<a href="/san-pham/mat-ong-hoa-ca-phe">Mật ong hoa cà phê</a></li>
+											<a href="/san-pham/mat-ong-hoa-ca-phe">Linh kiện PC</a></li>
 										<li id="menu-item-38"
 											class="menu-item menu-item-type-custom menu-item-object-custom  menu-item-38">
-											<a href="/san-pham/mat-ong-hoa-nhan">Mật ong hoa nhãn</a></li>
+											<a href="/san-pham/mat-ong-hoa-nhan">Apple</a></li>
 									</ul>
 								</li>
 
@@ -1418,8 +1418,7 @@
 							<div class="col-inner dark">
 
 								<h3>Về chúng tôi</h3>
-								<p><span style="font-size: 85%; text-align:justify">Theo Y học cổ truyền, mật ong có tác dụng ích khí, nhuận táo, chữa các chứng bệnh ho, tim, bỏng, đau bụng, khó đẻ, lở âm đầu, hóc xương cá, bí đại tiện, xích bạnh lị, sản phụ khát nước... 
-								Không nên dùng trong các trường hợp ỉa chảy hoặc đầy bụng.<br>
+								<p><span style="font-size: 85%; text-align:justify">Mua PC Gaming, laptop gaming, card màn hình, màn hình máy tính, ghế gaming, thiết bị chơi game như PS5 hàng đầu Việt Nam bảo hành chính hãng. Mua online nhận ưu đãi hấp dẫn với nhiều chương trình đặc biệt như Black Friday, G-Fest, Cyber Monday<br>
 							</span></p>
 
 							</div>
@@ -1428,10 +1427,10 @@
 							<div class="col-inner dark">
 
 								<h3>Liên hệ</h3>
-								<p><i class="fa fa-home" aria-hidden="true"></i>  ĐỊA CHỈ:    Xóm 5, xã Nghĩa Đồng, huyện Tân Kỳ, tỉnh Nghệ An</p>
+								<p><i class="fa fa-home" aria-hidden="true"></i>  Showroom Nghệ An:  Số 159, đường Kim Đồng, phường Hưng Bình</p>
 								<p><i class="fa fa-phone" aria-hidden="true"></i> 0389111187  </p>
-								<p><i class="fa fa-envelope-o" aria-hidden="true"></i> matongnghiadong@gmail.com</p>
-								<p><i class="fa-brands fa-edge-legacy"></i> http://matongnghiadong.com</p>
+								<p><i class="fa fa-envelope-o" aria-hidden="true"></i> gearvinh@gmail.com</p>
+								<p><i class="fa-brands fa-edge-legacy"></i> http://gearvinh.com</p>
 							</div>
 						</div>
 						<div class="col medium-4 small-6 large-3">
@@ -1672,7 +1671,7 @@
 			}
 
 			.hotline-footer .right a {
-				background: #fdc215;
+				background: #072d94;
 				line-height: 40px;
 				margin: 5px;
 				border-radius: 3px;

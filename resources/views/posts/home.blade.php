@@ -77,7 +77,7 @@
 									<div class="banner has-hover bg-zoom bg-overlay-add" id="banner-915894807" >
 										<div class="banner-inner fill">
 											<div class="banner-bg fill">
-												<div class="bg fill bg-fill " style = "background-image: url(/storage/{{$bn->thumbnail}})"></div>
+												<div class="bg fill bg-fill " style = ""></div>
 												<div class="overlay"></div>
 											</div><!-- bg-layers -->
 											<div class="banner-layers container">
@@ -89,8 +89,8 @@
 														<div class="text-inner text-center">
 
 															<h3 class="alt-font"><span
-																	style="color: #ffffff; font-size: 170%;">Hoàn
-																	toàn<br />tự nhiên</span></h3>
+																	style="color: #ffffff; font-size: 170%;">Hướng dẫn
+																	<br />thanh toán</span></h3>
 														</div>
 													</div><!-- text-box-inner -->
 
@@ -326,11 +326,9 @@
 									<div class="container section-title-container">
 										<h3 class="section-title section-title-center"><b></b><span
 												class="section-title-main"
-												style="font-size:150%;color:rgb(92, 34, 0);">SẢN PHẨM LÀM ĐẸP CỦA CHÚNG
-												TÔI</span><b></b></h3>
+												style="font-size:150%;color:rgb(92, 34, 0);">LAPTOP BÁN CHẠY NHẤT 2022</span><b></b></h3>
 									</div><!-- .section-title -->
-									<p style="text-align: center;">Sản phẩm làm đẹp của chúng tôi là các sản phẩm 100%
-										tự nhiên</p>
+									<p style="text-align: center;">Sản phẩm pc được khách hàng tin tưởng sử dụng</p>
 									<div class="gap-element" style="display:block; height:auto; padding-top:10px"
 										class="clearfix"></div>
 
@@ -439,11 +437,9 @@
 									<div class="container section-title-container">
 										<h3 class="section-title section-title-center"><b></b><span
 												class="section-title-main"
-												style="font-size:150%;color:rgb(92, 34, 0);">SẢN PHẨM THỰC PHẨM CHỨC
-												NĂNG CỦA CHÚNG TÔI</span><b></b></h3>
+												style="font-size:150%;color:rgb(92, 34, 0);">GIẢM GIÁ LAPTOP CHO HỌC SINH, SINH VIÊN</span><b></b></h3>
 									</div><!-- .section-title -->
-									<p style="text-align: center;">Sản phẩm thực phẩm chức năng của chúng tôi là các sản
-										phẩm tốt cho sức khỏe</p>
+									<p style="text-align: center;">GEAR VINH luôn hỗ trợ học sinh, sinh viên sở hữu laptop của riêng mình</p>
 									<div class="gap-element" style="display:block; height:auto; padding-top:10px"
 										class="clearfix"></div>
 
@@ -555,8 +551,7 @@
 									<div class="container section-title-container">
 										<h3 class="section-title section-title-center"><b></b><span
 												class="section-title-main"
-												style="font-size:125%;color:rgb(69, 0, 0);">TIN TỨC - BÍ QUYẾT LÀM
-												ĐẸP</span><b></b></h3>
+												style="font-size:125%;color:rgb(69, 0, 0);">SẢN PHẨM KHUYẾN MÃI CUỐI NĂM</span><b></b></h3>
 									</div><!-- .section-title -->
 									<div class="gap-element" style="display:block; height:auto; padding-top:18px"
 										class="clearfix"></div>
