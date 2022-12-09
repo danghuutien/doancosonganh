@@ -26,10 +26,12 @@
 
 						<div class="img has-hover x md-x lg-x y md-y lg-y" id="image_1056405802">
 							<div class="img-inner image-cover dark" style="padding-top:23%;">
-								<img width="1920" height="450" src="wp-content/uploads/2019/01/sldier2.jpg"
+								<!-- <img width="1920" height="450" src="wp-content/uploads/2019/01/sldier2.jpg"
 									class="attachment-original size-original" alt=""
 									srcset="http://matong.langsonweb.com/wp-content/uploads/2019/01/sldier2.jpg 1920w, http://matong.langsonweb.com/wp-content/uploads/2019/01/sldier2-300x70.jpg 300w, http://matong.langsonweb.com/wp-content/uploads/2019/01/sldier2-768x180.jpg 768w, http://matong.langsonweb.com/wp-content/uploads/2019/01/sldier2-1024x240.jpg 1024w"
-									sizes="(max-width: 1920px) 100vw, 1920px" />
+									sizes="(max-width: 1920px) 100vw, 1920px" /> -->
+
+								<img width="1920" height="450" src="../images/fullwidthslider.jpg" alt="">
 							</div>
 
 							<style scope="scope">
@@ -41,10 +43,12 @@
 
 						<div class="img has-hover x md-x lg-x y md-y lg-y" id="image_2118287654">
 							<div class="img-inner image-cover dark" style="padding-top:23%;">
-								<img width="1920" height="450" src="wp-content/uploads/2019/01/sldier1.jpg"
+								<!-- <img width="1920" height="450" src="wp-content/uploads/2019/01/sldier1.jpg"
 									class="attachment-original size-original" alt=""
 									srcset="http://matong.langsonweb.com/wp-content/uploads/2019/01/sldier1.jpg 1920w, http://matong.langsonweb.com/wp-content/uploads/2019/01/sldier1-300x70.jpg 300w, http://matong.langsonweb.com/wp-content/uploads/2019/01/sldier1-768x180.jpg 768w, http://matong.langsonweb.com/wp-content/uploads/2019/01/sldier1-1024x240.jpg 1024w"
-									sizes="(max-width: 1920px) 100vw, 1920px" />
+									sizes="(max-width: 1920px) 100vw, 1920px" /> -->
+									<img width="1920" height="450" src="../images/bestfeaturesfullwidth.jpg" alt="">
+
 							</div>
 
 							<style scope="scope">
@@ -262,9 +266,9 @@
 							<div class="bg fill bg-fill "></div>
 
 						</div><!-- bg-layers -->
-						<div class="banner-layers container">
-							<div class="fill banner-link"></div>
-							<div class="img has-hover x10 md-x10 lg-x10 y100 md-y100 lg-y100" id="image_391026270">
+						<div class=" container">
+							<div class="fill "></div>
+							<!-- <div class="img has-hover x10 md-x10 lg-x10 y100 md-y100 lg-y100" id="image_391026270">
 								<div data-animate="bounceInLeft">
 									<div class="img-inner dark" style="margin-top:20px;">
 										<img width="754" height="464" src="wp-content/uploads/2019/01/honey1.jpg"
@@ -294,8 +298,8 @@
 										width: 45%;
 									}
 								</style>
-							</div>
-
+							</div> -->
+							<img width="1920" height="200" src="../images/services-slider_orig.png" alt="">
 						</div><!-- .banner-layers -->
 					</div><!-- .banner-inner -->
 
