@@ -1355,19 +1355,19 @@
 									<ul class='nav-dropdown nav-dropdown-default'>
 										<li id="menu-item-34"
 											class="menu-item menu-item-type-custom menu-item-object-custom  menu-item-34">
-											<a href="/san-pham/mat-ong-sua-chua">Laptop</a></li>
+											<a href="/san-pham/{slug}">Laptop</a></li>
 										<li id="menu-item-35"
 											class="menu-item menu-item-type-custom menu-item-object-custom  menu-item-35">
-											<a href="/san-pham/mat-ong-rung">Laptop Gaming</a></li>
+											<a href="/san-pham/{slug}">Laptop Gaming</a></li>
 										<li id="menu-item-36"
 											class="menu-item menu-item-type-custom menu-item-object-custom  menu-item-36">
-											<a href="/san-pham/mat-ong-gung">PC Doanh nghiệp</a></li>
+											<a href="/san-pham/{slug}">PC Doanh nghiệp</a></li>
 										<li id="menu-item-37"
 											class="menu-item menu-item-type-custom menu-item-object-custom  menu-item-37">
-											<a href="/san-pham/mat-ong-hoa-ca-phe">Linh kiện PC</a></li>
+											<a href="/san-pham/{slug}">Linh kiện PC</a></li>
 										<li id="menu-item-38"
 											class="menu-item menu-item-type-custom menu-item-object-custom  menu-item-38">
-											<a href="/san-pham/mat-ong-hoa-nhan">Apple</a></li>
+											<a href="/san-pham/{slug}">Apple</a></li>
 									</ul>
 								</li>
 
@@ -1561,15 +1561,15 @@
 					<a href="/" class="nav-top-link">Sản phẩm</a>
 					<ul class=children>
 						<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-34"><a
-								href="/san-pham/mat-ong-sua-chua">Mật ong sữa chúa</a></li>
+								href="/san-pham/{slug}">Laptop</a></li>
 						<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-35"><a
-								href="/san-pham/mat-ong-rung">Mật ong rừng</a></li>
+								href="/san-pham/{slug}">Laptop Gaming</a></li>
 						<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-36"><a
-								href="/san-pham/mat-ong-gung">Mật ong gừng</a></li>
+								href="/san-pham/{slug}">PC Doanh nghiệp</a></li>
 						<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-37"><a
-								href="/san-pham/mat-ong-hoa-ca-phe">Mật ong hoa cà phê</a></li>
+								href="/san-pham/{slug}">Linh kiện PC</a></li>
 						<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-38"><a
-								href="/san-pham/mat-ong-hoa-nhan">Mật ong hoa nhãn</a></li>
+								href="/san-pham/{slug}">Apple</a></li>
 					</ul>
 				</li>
 

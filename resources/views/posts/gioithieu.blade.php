@@ -22,17 +22,16 @@
             <div class="col-inner">
               <div class="gap-element" style="display:block; height:auto; padding-top:49px" class="clearfix"></div>
               <h1><strong>VỀ CHÚNG TÔI</strong></h1>
-              <p>TÊN SẢN PHẨM: Mật Ong Nghĩa Đồng <br> TÊN CHỦ THỂ: Tổ hợp tác sản xuất Mật ong xã Nghĩa Đồng <br>
-                ĐỊA CHỈ: Xóm 5, xã Nghĩa Đồng, huyện Tân Kỳ, tỉnh Nghệ An <br>
-                Điện thoại: 0389111187 <br>Email : matongnghiadong@gmail.com <br> Website: http://matongnghiadong.com</p>
+              <p>GEAR VINH - CUNG CẤP LAPTOP, PC, GEAR TOÀN QUỐC <br> 
+                ĐỊA CHỈ: Số 159, đường Kim Đồng, phường Hưng Bình, TP Vinh, Nghệ An <br>
+                Điện thoại: 0389111187 <br>Email :  gearvinh@gmail.com <br> Website:  http://gearvinh.com</p>
             </div>
           </div>
-          <div class="col medium-6 small-12 large-6">
+          <!-- <div class="col medium-6 small-12 large-6">
             <div class="col-inner">
               <div class="img has-hover x md-x lg-x y md-y lg-y" id="image_1764808262">
                 <div class="img-inner dark">
-                  <img width="754" height="464" src="../wp-content/themes/flatsome/assets/img/lazy.png" data-src="http://matong.langsonweb.com/wp-content/uploads/2019/01/honey1.jpg" class="lazy-load attachment-original size-original" alt="" srcset="" data-srcset="http://matong.langsonweb.com/wp-content/uploads/2019/01/honey1.jpg 754w, http://matong.langsonweb.com/wp-content/uploads/2019/01/honey1-300x185.jpg 300w" sizes="(max-width: 754px) 100vw, 754px" />
-                </div>
+                  </div>
 
                 <style scope="scope">
                   #image_1764808262 {
@@ -42,7 +41,7 @@
               </div>
 
             </div>
-          </div>
+          </div> -->
         </div>
       </div><!-- .section-content -->
 
@@ -57,35 +56,7 @@
     </section>
 
 
-    <div class="row row-small" id="row-1997228765">
-
-      @foreach($banner as $bn)
-      <div class="col medium-3 small-6 large-3">
-        <div class="col-inner">
-          <div class="img has-hover x md-x lg-x y md-y lg-y" id="image_287610901">
-            <a class="image-lightbox lightbox-gallery" href="/storage/{{$bn->thumbnail}}" title="">
-              <div class="img-inner image-cover dark" style="padding-top:147%;">
-                <img width="1001" height="1443" src="/storage/{{$bn->thumbnail}}" data-src="/storage/{{$bn->thumbnail}}" class="lazy-load attachment-original size-original" alt="" srcset="" sizes="(max-width: 1001px) 100vw, 1001px" />
-              </div>
-            </a>
-            <style scope="scope">
-              #image_287610901 {
-                width: 100%;
-              }
-            </style>
-          </div>
-
-        </div>
-      </div>
-
-      @endforeach
-      
-
-      <style scope="scope">
-
-      </style>
-    </div>
-
+    
 
     <section class="section" id="section_1165089028">
       <div class="bg section-bg fill bg-fill  bg-loaded">
@@ -102,7 +73,7 @@
           <div class="col small-12 large-12">
             <div class="col-inner">
               <div class="container section-title-container">
-                <h3 class="section-title section-title-center"><b></b><span class="section-title-main" style="font-size:130%;color:rgb(72, 1, 1);">VÌ SAO CHỌN MẬT ONG CỦA CHÚNG TÔI</span><b></b></h3>
+                <h3 class="section-title section-title-center"><b></b><span class="section-title-main" style="font-size:130%;color:white;">GIÁ TRỊ CỐT LÕI GEAR VINH MANG LẠI</span><b></b></h3>
               </div><!-- .section-title -->
               <div class="gap-element" style="display:block; height:auto; padding-top:11px" class="clearfix"></div>
               <!-- <p style="text-align: center;">Mật ong Trường Thọ luôn mang hương vị của thiên nhiên từ  hoa của cây
@@ -120,16 +91,13 @@
                 <div class="icon-box-img" style="width: 205px">
                   <div class="icon">
                     <div class="icon-inner">
-                      <img width="300" height="89" src="../wp-content/themes/flatsome/assets/img/lazy.png" data-src="http://matong.langsonweb.com/wp-content/uploads/2019/01/q1-2-370x110-300x89.png" class="lazy-load attachment-medium size-medium" alt="" srcset="" data-srcset="http://matong.langsonweb.com/wp-content/uploads/2019/01/q1-2-370x110-300x89.png 300w, http://matong.langsonweb.com/wp-content/uploads/2019/01/q1-2-370x110.png 370w" sizes="(max-width: 300px) 100vw, 300px" />
-                    </div>
+                    <i style='font-size:32px; color:white;' class='fas'>&#xf5df;</i></div>
                   </div>
                 </div>
                 <div class="icon-box-text last-reset">
 
-                  <h4 style="text-align: center;">HƯƠNG VỊ NGON NHẤT</h4>
-                  <p style="text-align: center;"><span style="font-size: 95%;">Ong rừng cho ra mật có độ ngọt vừa
-                      phải, hương thơm từ hoa rừng. Có mùi vị đặc trưng của hoa tràm, cà phê, nhãn, chôm
-                      chôm,..</span></p>
+                  <h4 style="text-align: center;">SẢN PHẨM CHẤT LƯỢNG</h4>
+                  <p style="text-align: center;"><span style="font-size: 95%; color:white;">Các sản phảm được trưng bày hay bán ở GEAR VINH đều được các thương hiệu máy tính trong và ngoài nước tín nhiệm uỷ quyền</span></p>
                 </div>
               </div><!-- .icon-box -->
 
@@ -143,16 +111,13 @@
                 <div class="icon-box-img" style="width: 205px">
                   <div class="icon">
                     <div class="icon-inner">
-                      <img width="300" height="89" src="../wp-content/themes/flatsome/assets/img/lazy.png" data-src="http://matong.langsonweb.com/wp-content/uploads/2019/01/q2-2-370x110-300x89.png" class="lazy-load attachment-medium size-medium" alt="" srcset="" data-srcset="http://matong.langsonweb.com/wp-content/uploads/2019/01/q2-2-370x110-300x89.png 300w, http://matong.langsonweb.com/wp-content/uploads/2019/01/q2-2-370x110.png 370w" sizes="(max-width: 300px) 100vw, 300px" />
-                    </div>
+                    <i style='font-size:32px; color:white;' class='fas'>&#xf207;</i></div>
                   </div>
                 </div>
                 <div class="icon-box-text last-reset">
 
-                  <h4 style="text-align: center;">TINH LỌC KĨ LƯỠNG</h4>
-                  <p style="text-align: center;"><span style="font-size: 90%;"> Khép kín và kiểm tra nghiêm ngặt
-                      trong sản xuất cùng với vùng nguyên liệu rộng khắp các từ rừng U Minh đến rừng Tây
-                      Nguyên</span></p>
+                  <h4 style="text-align: center;">GIAO HÀNG VÀ LẮP ĐẶT</h4>
+                  <p style="text-align: center;"><span style="font-size: 90%;color:white;"> GEAR VINH hỗ trợ hoàn toàn chi phí lắp đặt và bảo dưỡng tại nhà nhằm đem lại cho khách hàng sự hài lòng nhất với dịch vụ</span></p>
                 </div>
               </div><!-- .icon-box -->
 
@@ -166,14 +131,13 @@
                 <div class="icon-box-img" style="width: 205px">
                   <div class="icon">
                     <div class="icon-inner">
-                      <img width="300" height="89" src="../wp-content/themes/flatsome/assets/img/lazy.png" data-src="http://matong.langsonweb.com/wp-content/uploads/2019/01/q3-2-370x110-300x89.png" class="lazy-load attachment-medium size-medium" alt="" srcset="" data-srcset="http://matong.langsonweb.com/wp-content/uploads/2019/01/q3-2-370x110-300x89.png 300w, http://matong.langsonweb.com/wp-content/uploads/2019/01/q3-2-370x110.png 370w" sizes="(max-width: 300px) 100vw, 300px" />
-                    </div>
+                    <i style='font-size:32px;color:white;' class='fab'>&#xf42c;</i></div>
                   </div>
                 </div>
                 <div class="icon-box-text last-reset">
 
                   <h4 style="text-align: center;"><span style="font-size: 90%;">GIÁ CẢ HỢP LÝ</span></h4>
-                  <p style="text-align: center;"><span style="font-size: 90%;">Sản phẩm chất lượng nhưng chúng tôi
+                  <p style="text-align: center;"><span style="font-size: 90%;color:white;">Sản phẩm chất lượng nhưng GEAR VINH
                       luôn hướng đến khách hàng với mức giá ưu đãi và hợp lý nhất</span></p>
                 </div>
               </div><!-- .icon-box -->
@@ -189,7 +153,7 @@
         #section_1165089028 {
           padding-top: 30px;
           padding-bottom: 30px;
-          background-color: rgb(253, 194, 21);
+          background-color: #072d94;
         }
       </style>
     </section>
