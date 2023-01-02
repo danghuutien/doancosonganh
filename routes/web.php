@@ -1,7 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
-use App\Http\Controllers\HoneyController;
+use App\Http\Controllers\LaptopController;
 
 
 /*
@@ -19,13 +19,13 @@ Route::group(['prefix' => 'laravel-filemanager', 'middleware' => ['web', 'auth']
 });
 
 
-Route::get('/', [HoneyController::class, 'trangchu'])->name('posts.home');
-Route::get('/san-pham/{slug}', [HoneyController::class, 'sanpham'])->name('posts.sanpham');
-Route::get('/gioi-thieu', [HoneyController::class, 'gioithieu'])->name('posts.gioithieu');
-Route::get('/lien-he', [HoneyController::class, 'lienhe'])->name('posts.lienhe');
-Route::get('/tai-khoan', [HoneyController::class, 'taikhoan'])->name('posts.taikhoan');
-Route::get('/chi-tiet-san-pham/{slug}', [HoneyController::class, 'chitietsanpham'])->name('posts.chitietsanpham');
-Route::get('/video', [HoneyController::class, 'video'])->name('posts.video');
+Route::get('/', [LaptopController::class, 'trangchu'])->name('posts.home');
+Route::get('/san-pham/{slug}', [LaptopController::class, 'sanpham'])->name('posts.sanpham');
+Route::get('/gioi-thieu', [LaptopController::class, 'gioithieu'])->name('posts.gioithieu');
+Route::get('/lien-he', [LaptopController::class, 'lienhe'])->name('posts.lienhe');
+Route::get('/tai-khoan', [LaptopController::class, 'taikhoan'])->name('posts.taikhoan');
+Route::get('/chi-tiet-san-pham/{slug}', [LaptopController::class, 'chitietsanpham'])->name('posts.chitietsanpham');
+Route::get('/video', [LaptopController::class, 'video'])->name('posts.video');
 
 
 

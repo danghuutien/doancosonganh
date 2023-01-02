@@ -1,6 +1,6 @@
 @extends('layout.trangchu')
 @section('content')
-@foreach($sanpham as $sp)
+
 @if($danhmuc)     
 <div class="shop-page-title category-page-title page-title featured-title dark ">
 
@@ -59,15 +59,13 @@
 								class="widget-title shop-sidebar">Danh mục sản phẩm</span>
 							<div class="is-divider small"></div>
 							<ul class="product-categories">
-								<li class="cat-item cat-item-19"><a href="/san-pham/mat-ong-gung">Mật ong gừng</a>
+								<li class="cat-item cat-item-19"><a href="/san-pham/laptop">Laptop</a>
 									<span class="count"></span></li>
-								<li class="cat-item cat-item-17"><a href="/san-pham/mat-ong-hoa-ca-phe">Mật ong hoa
-										cà phê</a> <span class="count"></span></li>
-								<li class="cat-item cat-item-18"><a href="/san-pham/mat-ong-hoa-nhan">Mật ong hoa
-										nhãn</a> <span class="count"></span></li>
-								<li class="cat-item cat-item-15"><a href="/san-pham/mat-ong-rung">Mật ong rừng</a>
+								<li class="cat-item cat-item-17"><a href="/san-pham/laptop-gaming">Laptop Gaming</a> <span class="count"></span></li>
+								<li class="cat-item cat-item-18"><a href="/san-pham/pc-doanh-nghiep">PC Doanh nghiệp</a> <span class="count"></span></li>
+								<li class="cat-item cat-item-15"><a href="/san-pham/linh-kien-pc">Linh kiện PC</a>
 									<span class="count"></span></li>
-								<li class="cat-item cat-item-16 current-cat"><a href="/san-pham/mat-ong-sua-chua">Mật ong sữa chúa</a>
+								<li class="cat-item cat-item-16 current-cat"><a href="/san-pham/apple">Apple</a>
 									<span class="count"></span></li>
 							</ul>
 						</aside>
@@ -76,10 +74,10 @@
 
 				<div class="col large-9">
 					<div class="shop-container">
-
 						<div class="woocommerce-notices-wrapper"></div>
 						<div
-							class="products row row-small large-columns-4 medium-columns-3 small-columns-2 has-equal-box-heights equalize-box">
+						class="products row row-small large-columns-4 medium-columns-3 small-columns-2 has-equal-box-heights equalize-box">
+						@foreach($sanpham as $sp)
                             
 							<div
 								class="product-small col has-hover post-190 product type-product status-publish has-post-thumbnail product_cat-mat-ong-gung product_cat-mat-ong-hoa-ca-phe product_cat-mat-ong-sua-chua first instock shipping-taxable purchasable product-type-simple">
@@ -133,12 +131,14 @@
 								</div><!-- .col-inner -->
 							</div><!-- col -->
                            
+							@endforeach
 						</div><!-- row -->
+
 					</div><!-- shop container -->
 				</div>
 			</div>
 
 		</main><!-- #main -->
 		@endif
-		@endforeach
+		
 @endsection

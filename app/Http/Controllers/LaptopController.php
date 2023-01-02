@@ -16,7 +16,7 @@ use App\Models\Video;
 use App\Nova\BaiViet;
 use Illuminate\Support\Facades\DB;
 
-class HoneyController extends Controller
+class LaptopController extends Controller
 {
     //
  
@@ -25,17 +25,31 @@ class HoneyController extends Controller
         $slider = Sanpham::all();
         // return $slider;
         $banner = Sanpham::orderBy('id', 'desc')->take(3)->get();
+        // return $banner;
         $index = [];
         foreach($banner as $bn){
             array_push($index, $bn->id);
         }
+
+
         $baiviet_1 = Sanpham::whereNotIn('id', $index)->orderBy('id', 'desc')->take(8)->get();
-        $baiviet_2 = Sanpham::orderBy('id', 'desc')->take(4)->get();
-        foreach($baiviet_2 as $bv_2){
-            array_push($index, $bv_2->id);
+        $index = [];
+        foreach($baiviet_1 as $bn){
+            array_push($index, $bn->id);
         }
 
-        $baiviet_3 = Sanpham::orderBy('id', 'desc')->get();
+        
+        $baiviet_2 = Sanpham::whereNotIn('id', $index)->orderBy('id', 'desc')->take(4)->get();
+        
+        $index = [];
+        foreach($baiviet_2 as $bn){
+            array_push($index, $bn->id);
+        }
+        $baiviet_3 = Sanpham::whereNotIn('id', $index)->orderBy('id', 'desc')->get();
+        $index = [];
+        foreach($baiviet_3 as $bn){
+            array_push($index, $bn->id);
+        }
         // return $baiviet_3;
         $baiviet_4 = Sanpham::whereNotIn('id', $index)->orderBy('id', 'desc')->take(2)->get();
         // return $baiviet_4;
@@ -55,7 +69,8 @@ class HoneyController extends Controller
     {
         // return 1;
         $danhmuc = Category::where('slug' , $slug)->first();
-        $sanpham = Sanpham::where('category_id','=' ,$danhmuc->id)->orderBy('id', 'desc')->take(4)->get();
+        $sanpham = Sanpham::where('category_id','=' , $danhmuc->id)->orderBy('id', 'desc')->take(12)->get();
+        // return $sanpham;
         // return $danhmuc;
         return view('posts.sanpham', [
             'sanpham' => $sanpham,
@@ -67,15 +82,16 @@ class HoneyController extends Controller
     {
 
         
-        $banner = Post::where('category_id','=' , 20)->orderBy('id', 'desc')->take(4)->get();
-        $index = [];
-        foreach($banner as $bn){
-            array_push($index, $bn->id);
-        }
-        $gioithieubottom = Post::where('category_id','=' , 20)->whereNotIn('id',  $index)->orderBy('id', 'desc')->take(12)->get();
+        // $banner = Post::where('category_id','=' , 20)->orderBy('id', 'desc')->take(4)->get();
+        // $index = [];
+        // foreach($banner as $bn){
+        //     array_push($index, $bn->id);
+        // }
+        $gioithieubottom = Post::where('category_id','=' , 20)->orderBy('id', 'desc')->take(12)->get();
+        // return $gioithieubottom;
         // return $gioithieubottom;
         return view('posts.gioithieu', [
-            'banner' => $banner,
+            // 'banner' => $banner,
             'gioithieubottom' => $gioithieubottom,
         ]);
     }

@@ -13,13 +13,14 @@
             &nbsp;
         </div>
         <div class="flex-col flex-center text-center">
-
-            <h1 class="product-title product_title entry-title">{{$xemchitiet->title}}</h1>
-
-            <div class="is-small">
+        <div class="is-small">
                 <nav class="woocommerce-breadcrumb breadcrumbs"><a href="/">Trang chủ</a> <span class="divider">&#47;</span> <a >{{$xemchitiet->title}}
                         </a></nav>
             </div>
+
+            <h2 class="product-title product_title entry-title">{{$xemchitiet->title}}</h1>
+
+
         </div><!-- .flex-center -->
         <div class="flex-col flex-right nav-right text-right medium-text-center">
             

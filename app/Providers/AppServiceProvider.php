@@ -32,8 +32,8 @@ class AppServiceProvider extends ServiceProvider
     {
         
        
-        $danhmuc = getDanhmuc(null);
-        View::share('danhmuc',  $danhmuc);
+        // $danhmuc = getDanhmuc(null);
+        // View::share('danhmuc',  $danhmuc);
         
 
         $banner = Sanpham::orderBy('id', 'desc')->take(3)->get();

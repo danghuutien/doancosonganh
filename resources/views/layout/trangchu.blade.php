@@ -1355,19 +1355,19 @@
 									<ul class='nav-dropdown nav-dropdown-default'>
 										<li id="menu-item-34"
 											class="menu-item menu-item-type-custom menu-item-object-custom  menu-item-34">
-											<a href="/san-pham/{slug}">Laptop</a></li>
+											<a href="/san-pham/laptop">Laptop</a></li>
 										<li id="menu-item-35"
 											class="menu-item menu-item-type-custom menu-item-object-custom  menu-item-35">
-											<a href="/san-pham/{slug}">Laptop Gaming</a></li>
+											<a href="/san-pham/laptop-gaming">Laptop Gaming</a></li>
 										<li id="menu-item-36"
 											class="menu-item menu-item-type-custom menu-item-object-custom  menu-item-36">
-											<a href="/san-pham/{slug}">PC Doanh nghiệp</a></li>
+											<a href="/san-pham/pc-doanh-nghiep">PC Doanh nghiệp</a></li>
 										<li id="menu-item-37"
 											class="menu-item menu-item-type-custom menu-item-object-custom  menu-item-37">
-											<a href="/san-pham/{slug}">Linh kiện PC</a></li>
+											<a href="/san-pham/linh-kien-pc">Linh kiện PC</a></li>
 										<li id="menu-item-38"
 											class="menu-item menu-item-type-custom menu-item-object-custom  menu-item-38">
-											<a href="/san-pham/{slug}">Apple</a></li>
+											<a href="/san-pham/apple">Apple</a></li>
 									</ul>
 								</li>
 

@@ -85,7 +85,7 @@
 												<div class="overlay"></div>
 											</div><!-- bg-layers -->
 											<div class="banner-layers container">
-												<div class="fill banner-link"></div>
+												<div class="fill banner-link" style="background:url(/storage/{{$bn->thumbnail}}) no-repeat center; background-size:cover;"></div>
 												<div id="text-box-840886463"
 													class="text-box banner-layer x50 md-x50 lg-x50 y50 md-y50 lg-y50 res-text">
 													<div class="text dark">
